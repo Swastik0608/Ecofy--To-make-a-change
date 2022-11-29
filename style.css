@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color:rgb(145, 255, 125);
+}
+.menu{
+    list-style:none;
+    font-family:Palette Mosaic;
+    position:fixed;
+    margin-top:10px;
+    right:30px;
+    cursor:pointer;
+    z-index:10;
+}
+a{
+    text-decoration: none;
+        
+    }
+    h1 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h2{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .links{
+        color:aqua;
+        padding-bottom: 5px; 
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        font-family: fantasy;
+        font-size: 20px;
+        float: left;
+    }
+    .links:hover{
+        background-color: rgb(127, 206, 255);
+    }
+    
+    .menu{
+        list-style:none;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        position:fixed;
+        margin-top:10px;
+        right:30px;
+        cursor:pointer;
+        z-index:10;
+    }
+    a{
+    text-decoration: none;
+        
+    }
+    h1 {
+        font-family:monospace;
+    }
+    h2{
+        font-family: serif;
+    }
